@@ -77,7 +77,7 @@ function SimpleForm() {
       </div>
 
       <div className={styles.inputGroup}>
-        <label className={styles.label}>Email:</label>
+        <label className={styles.label}>Email</label>
         <input
           type="email"
           name="email"
@@ -89,7 +89,7 @@ function SimpleForm() {
       </div>
 
       <div className={styles.inputGroup}>
-        <label className={styles.label}>Password:</label>
+        <label className={styles.label}>Password</label>
         <input
           type="password"
           name="password"
